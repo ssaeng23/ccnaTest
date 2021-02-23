@@ -16,7 +16,12 @@ npm install
 npm run dev
 
 # build for production with ninification
-npm run build 
-
+    npm run build 
+    
 # build for production and view the bundle an
 ```
+
+
+this is a normal paragraph:
+    this is a code block.
+end code block.
